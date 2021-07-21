@@ -1,0 +1,39 @@
+/* Background colors */
+
+.bg-primary-darken {
+  background: #0a71c6;
+}
+
+.bg-primary-soft {
+  background: #41a4f5;
+}
+
+.bg-light-soft {
+  background: #f7f8fa;
+}
+
+.bg-dark-soft {
+  background: #434e5e;
+}
+
+/* Font Colors */
+
+.font-color-title {
+  color: #434e5e;
+}
+
+.font-color-text {
+  color: #58677c;
+}
+
+/* Font Size */
+
+.font-size-text {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.font-size-title {
+  font-size: 1.25rem;
+  line-height: 1.5rem;
+}
